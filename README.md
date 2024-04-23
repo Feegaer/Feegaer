@@ -1,5 +1,5 @@
 ## About Me 😁
-👜 System Analyst at Exgadet S.A. and currently self taught Full Stack Developer.
+👜 System Analyst at Exgadet S.A. and currently self taught Full Stack Developer. </br>
 🏫 Student at the National University of La Matanza
 
 ## 🔗 Links
