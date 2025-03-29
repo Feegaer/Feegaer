@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👜 System Analyst at Exgadet S.A. and currently self taught Full Stack Developer. 
+<p align="left">👜 System Analyst at Exgadet S.A. 
 <br>🏫 Student at the National University of La Matanza</p>
 
 ## 🔗 Links
