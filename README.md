@@ -1,10 +1,3 @@
-<h1 align="left">About Me 😁</h1>
-
-###
-
-<p align="left">👜 System Analyst at Exgadet S.A. 
-<br>🏫 Student at the National University of La Matanza</p>
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Feegaer.github.io/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezelnv/)
 
