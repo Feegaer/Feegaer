@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristian Ezequiel La Neve
+👋 Hi, I'm Cristian Ezequiel La Neve
 
 🎓 **Computer Engineering Student** at Universidad Nacional de La Matanza  
 💻 Passionate about **software development, APIs, and web applications**  
