@@ -1,8 +1,10 @@
-👋 Hi, I'm Cristian Ezequiel La Neve
+<p align="center">
+  👋 Hi, I'm Cristian Ezequiel La Neve <br>
+  🎓 <b>Computer Engineering Student</b> at Universidad Nacional de La Matanza <br>
+  💻 Passionate about <b>software development, APIs, and web applications</b> <br>
+  📍 Based in Argentina
+</p>
 
-🎓 **Computer Engineering Student** at Universidad Nacional de La Matanza  
-💻 Passionate about **software development, APIs, and web applications**
-📍 Based in Argentina  
 ---
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Feegaer.github.io/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezelnv/)
