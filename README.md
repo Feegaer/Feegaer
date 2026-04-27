@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a Computer Engineering student with hands-on experience in building web applications, APIs, and database solutions. I enjoy learning new technologies, solving problems, and developing scalable and efficient systems.  
+I have experience in building web applications, APIs, and database solutions. I enjoy learning new technologies, solving problems, and developing scalable and efficient systems.  
 
 I’m always looking for opportunities to **grow professionally** and contribute to innovative projects.  
 
