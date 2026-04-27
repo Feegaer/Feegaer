@@ -1,6 +1,4 @@
 <p align="center">
-  👋 Hi, I'm Cristian Ezequiel La Neve <br>
-  🎓 <b>Computer Engineering Student</b> at Universidad Nacional de La Matanza <br>
   💻 Passionate about <b>software development, APIs, and web applications</b> <br>
   📍 Based in Argentina
 </p>
